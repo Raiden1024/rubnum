@@ -1,5 +1,5 @@
 # rubnum
-Ruby script for rename files recursively
+Ruby script for renaming files recursively
 
 This script ask for a folder and rename all files recursively with numbering reset in each subfolder, ex:
 
